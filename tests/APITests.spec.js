@@ -3,8 +3,8 @@ const { test, expect } = require('@playwright/test');
 var userToken;
 var bookId;
 var orderId;
-const customerName = "vikasv386";
-const customerEmail = "vikasv386@example.com";
+const customerName = "vikasv387";
+const customerEmail = "vikasv387@example.com";
 
 test.beforeAll('POST : Customer Authorization', async ({ request }) => {
 
